@@ -1,37 +1,53 @@
 # 👋 Hi, I'm Hamid Rza (@Hamidrza0008)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DFBA73&center=true&vCenter=true&width=500&lines=Frontend+Developer;Next.js+Full+Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=DFBA73&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Next.js+%2B+MERN+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hamidrza0008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a passionate **Frontend & Next.js Full Stack Developer** dedicated to crafting modern, scalable, and high-performance web applications. I thrive on creating clean, intuitive user experiences combined with robust, efficient architectures. 
+I am a passionate **Full Stack Developer** dedicated to crafting premium, scalable, and high-performance web applications. I thrive on building sleek, modern user interfaces with advanced animations backed by robust, optimized server architectures.
 
 - 🎓 **Education:** B.Tech Computer Science & Engineering at CSMU, Navi Mumbai
-- 💼 **Looking for:** Opportunities as a Frontend Developer / Next.js Full Stack Developer to build impactful real-world applications.
+- 💼 **Looking for:** Opportunities as a Frontend Developer / Next.js & MERN Full Stack Developer to build impactful real-world applications.
 
 ---
 
 ### 💻 Tech Stack & Skills
 
+#### 🌐 Frontend Core & UI
 <p align="left">
-  <!-- Frontend Core -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=%2300C5FF" />
-  <br />
-  <!-- Backend & Tools -->
-  <img src="https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON_Web_Tokens-000000?style=flat-square&logo=jsonwebactuators&logoColor=white" />
+</p>
+
+#### 🛠️ Dev Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -67,10 +83,8 @@ I am a passionate **Frontend & Next.js Full Stack Developer** dedicated to craft
 
 ---
 
-### 📫 Connect With Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hamidrza0008/Hamidrza0008/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-- 📧 **Email:** [hamidrza0008@gmail.com](mailto:hamidrza0008@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
-<p align="center">⭐️ From <b>Hamidrza0008</b></p>
+<p align="center">⭐️ Crafted with 💻 by <b>Hamidrza0008</b></p>

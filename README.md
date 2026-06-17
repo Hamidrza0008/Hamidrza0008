@@ -83,6 +83,7 @@ I am a passionate **Full Stack Developer** dedicated to crafting premium, scalab
 
 ---
 
+### 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hamidrza0008/Hamidrza0008/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>

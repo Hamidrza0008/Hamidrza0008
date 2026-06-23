@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hamid Rza (@Hamidrza0008)
+# 👋 Hi, I'm Hamid Raza (@Hamidrza0008)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=DFBA73&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Next.js+%2B+MERN+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
@@ -84,6 +84,7 @@ I am a passionate **Full Stack Developer** dedicated to crafting premium, scalab
 ---
 
 ### 🐍 GitHub Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hamidrza0008/Hamidrza0008/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>

@@ -1,92 +1,251 @@
-# 👋 Hi, I'm Hamid Raza (@Hamidrza0008)
+<h1 align="center">Hi 👋, I'm Hamid Raza</h1>
+
+<h3 align="center">
+Frontend-Focused Full Stack Developer | Next.js • React • Node.js • MongoDB
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=DFBA73&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Next.js+%2B+MERN+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Frontend-Focused+Full+Stack+Developer;Building+Modern+SaaS+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New+🚀" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamid-rza-76303b2a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hamidrza0008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<a href="mailto:hamidrza0008@gmail.com">
+<img src="https://img.shields.io/badge/Email-hamidrza0008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hamid-rza-76303b2a7/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Hamid%20Raza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Hamidrza0008" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Hamidrza0008-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-### 🚀 About Me
-I am a passionate **Full Stack Developer** dedicated to crafting premium, scalable, and high-performance web applications. I thrive on building sleek, modern user interfaces with advanced animations backed by robust, optimized server architectures.
+# 💫 About Me
 
-- 🎓 **Education:** B.Tech Computer Science & Engineering at CSMU, Navi Mumbai
-- 💼 **Looking for:** Opportunities as a Frontend Developer / Next.js & MERN Full Stack Developer to build impactful real-world applications.
+I'm a **Frontend-Focused Full Stack Developer** passionate about creating **modern, scalable and premium web applications**.
+
+I enjoy transforming ideas into beautiful, responsive and high-performance products using modern technologies.
+
+Currently I'm focusing on building real-world SaaS projects while continuously improving my frontend architecture and backend development skills.
+
+- 🎓 B.Tech Computer Science & Engineering
+- 💻 Frontend-Focused Full Stack Developer
+- 🌱 Currently building **DevReview**
+- 🚀 Learning advanced system design and scalable application architecture
+- 📍 Mumbai, Maharashtra, India
+- 📫 Reach me at **hamidrza0008@gmail.com**
 
 ---
 
-### 💻 Tech Stack & Skills
+# 🚀 Tech Stack
 
-#### 🌐 Frontend Core & UI
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-</p>
+## 🎨 Frontend
 
-#### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON_Web_Tokens-000000?style=flat-square&logo=jsonwebactuators&logoColor=white" />
-</p>
+<p>
 
-#### 🛠️ Dev Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux"/>
+
 </p>
 
 ---
 
-### 🚀 Highlighted Projects
+## ⚙️ Backend
 
-#### 🍰 [1. LOTUS - Cake Shop E-commerce (Full Stack)](https://github.com/Hamidrza0008)
-> A modern, premium full-stack cake shop platform built for seamless user experience and administrative management.
-- **Stack:** Next.js, MySQL, Redux Toolkit, Framer Motion, Tailwind CSS
-- **Features:** 
-  - Secure Authentication system & Protected Routes.
-  - Cart, Wishlist, and Order Tracking (Packed 📦 -> Shipped 🚚 -> Out for Delivery 🛵).
-  - **Powerful Admin Dashboard:** Manage products, track customer metrics, and view real-time sales performance.
+<p>
 
-#### 🛍️ [2. HR.STORE - Elite E-commerce Platform](https://github.com/Hamidrza0008/HR.STORE)
-> High-performance modern E-commerce storefront utilizing client-side state optimization.
-- **Stack:** React.js, Redux Toolkit, Tailwind CSS, React Router
-- **Features:** JWT Authentication flow, dynamic multi-page responsive UI layout, full cart/wishlist management.
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 
-#### 📋 [3. Taskify - Task Management Web App](https://github.com/Hamidrza0008)
-> Full-stack productivity hub featuring daily metrics scoring and user segregation.
-- **Stack:** Next.js, Tailwind CSS, MySQL, Native Next APIs, JWT
-- **Features:** Secure user-based task segmentation, full CRUD capabilities, instant status filtering (All / Done / Undone), and visual daily productivity tracking systems.
+</p>
 
 ---
 
-### 📊 GitHub Analytics
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌟 DevReview (Current Main Project)
+
+A modern developer community platform where developers can showcase projects, receive reviews, discover other developers, and build their professional presence.
+
+### Features
+
+- 🔐 Authentication & JWT
+- 📂 Project CRUD
+- ❤️ Like System
+- ⭐ Review System
+- 👤 User Profiles
+- 🌍 Explore Developers
+- 🚀 Responsive Premium UI
+- 📊 Dashboard
+- 🔒 Protected Routes
+
+**Tech Stack**
+
+Next.js • React • Node.js • Express • MongoDB • Tailwind CSS • Framer Motion
+
+---
+
+## 🍰 Lotus Cakes
+
+Modern Full Stack Cake Shop with premium UI.
+
+### Features
+
+- Authentication
+- Cart
+- Wishlist
+- Checkout
+- Admin Dashboard
+- Order Tracking
+
+**Stack**
+
+Next.js • MySQL • Redux Toolkit • Tailwind CSS
+
+---
+
+## 🛍 HR.STORE
+
+Premium E-Commerce Platform.
+
+### Features
+
+- Authentication
+- Cart
+- Wishlist
+- Responsive Design
+- Product Filtering
+
+**Stack**
+
+React.js • Redux Toolkit • Tailwind CSS
+
+---
+
+## 📋 Taskify
+
+Task Management Application.
+
+### Features
+
+- User Authentication
+- CRUD Operations
+- Daily Productivity
+- Status Filters
+
+**Stack**
+
+Next.js • MySQL • JWT
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamidrza0008&show_icons=true&theme=tokyonight&count_private=true" alt="Hamid's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidrza0008&theme=tokyonight" alt="Hamid's Streak Stats" width="48%" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hamidrza0008&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidrza0008&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+# 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hamidrza0008/Hamidrza0008/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidrza0008&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="center">⭐️ Crafted with 💻 by <b>Hamidrza0008</b></p>
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hamidrza0008&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamidrza0008&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Hamidrza0008/Hamidrza0008/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💼 Looking For
+
+I'm currently looking for opportunities as
+
+- Frontend Developer
+- React Developer
+- Next.js Developer
+- Frontend-Focused Full Stack Developer
+
+where I can contribute to real-world products and continue growing as a software engineer.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:hamidrza0008@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hamid-rza-76303b2a7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Hamidrza0008">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ If you like my work, consider giving a star to my repositories.
+
+</h3>
+
+<p align="center">
+
+Made with ❤️ by <b>Hamid Raza</b>
+
+</p>

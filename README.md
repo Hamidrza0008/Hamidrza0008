@@ -1,251 +1,211 @@
-<h1 align="center">Hi 👋, I'm Hamid Raza</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer | Next.js • React • Node.js • Express • MongoDB • SQL
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=220&section=header&text=Hamid%20Raza&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descAlignY=55&descSize=18"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Frontend-Focused+Full+Stack+Developer;Building+Modern+SaaS+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New+🚀" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Frontend-Focused+Full+Stack+Developer;Building+Modern+SaaS+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New+%F0%9F%9A%80" />
 
-<p align="center">
+<br/>
 
 <a href="mailto:hamidrza0008@gmail.com">
 <img src="https://img.shields.io/badge/Email-hamidrza0008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/hamid-rza-76303b2a7/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Hamid%20Raza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Hamidrza0008" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Hamidrza0008-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hamidrza0008&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Hamidrza0008?label=Followers&style=for-the-badge&color=9333EA"/>
+
+</div>
 
 ---
 
-# 💫 About Me
+### 💫 About Me
 
-I'm a **Frontend-Focused Full Stack Developer** passionate about creating **modern, scalable and premium web applications**.
+I'm a **Full Stack Developer** passionate about creating **modern, scalable and premium web applications**. I enjoy turning ideas into beautiful, responsive, high-performance products using the latest technologies.
 
-I enjoy transforming ideas into beautiful, responsive and high-performance products using modern technologies.
+Currently focused on building real-world SaaS projects while continuously leveling up my frontend architecture and backend engineering skills.
 
-Currently I'm focusing on building real-world SaaS projects while continuously improving my frontend architecture and backend development skills.
-
-- 🎓 B.Tech Computer Science & Engineering
-- 💻 Full Stack Developer
-- 🌱 Currently building **DevReview**
-- 🚀 Learning advanced system design and scalable application architecture
-- 📍 Mumbai, Maharashtra, India
-- 📫 Reach me at **hamidrza0008@gmail.com**
+```yaml
+Name:          Hamid Raza
+Role:          Full Stack Developer
+Education:     B.Tech, Computer Science & Engineering
+Currently:     Building DevReview
+Learning:      Advanced System Design & Scalable Architecture
+Location:      Mumbai, Maharashtra, India
+Contact:       hamidrza0008@gmail.com
+```
 
 ---
 
-# 🚀 Tech Stack
+### 🚀 Tech Stack
 
-## 🎨 Frontend
+<div align="center">
 
-<p>
-
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux"/>
 
-</p>
+<br/><br/>
 
----
-
-## ⚙️ Backend
-
-<p>
-
+**Backend**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 
-</p>
+<br/><br/>
 
----
-
-## 🛠 Tools
-
-<p>
-
+**Tools & Platforms**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
 
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+### 🌟 Featured Projects
 
-## 🌟 DevReview (Current Main Project)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A modern developer community platform where developers can showcase projects, receive reviews, discover other developers, and build their professional presence.
+**🌟 DevReview** <sub>*(Current Main Project)*</sub>
 
-### Features
+A modern developer community platform to showcase projects, receive reviews, discover other developers, and build a professional presence.
 
 - 🔐 Authentication & JWT
 - 📂 Project CRUD
-- ❤️ Like System
-- ⭐ Review System
-- 👤 User Profiles
-- 🌍 Explore Developers
-- 🚀 Responsive Premium UI
-- 📊 Dashboard
-- 🔒 Protected Routes
+- ❤️ Like System · ⭐ Review System
+- 👤 Profiles · 🌍 Explore Developers
+- 📊 Dashboard · 🔒 Protected Routes
 
-**Tech Stack**
+`Next.js` `React` `Node.js` `Express` `MongoDB` `Tailwind` `Framer Motion`
 
-Next.js • React • Node.js • Express • MongoDB • Tailwind CSS • Framer Motion
+</td>
+<td width="50%" valign="top">
 
----
+**🍰 Lotus Cakes**
 
-## 🍰 Lotus Cakes
+Modern full stack cake shop with a premium UI.
 
-Modern Full Stack Cake Shop with premium UI.
-
-### Features
-
-- Authentication
-- Cart
-- Wishlist
-- Checkout
+- Authentication · Cart · Wishlist
+- Checkout · Order Tracking
 - Admin Dashboard
-- Order Tracking
 
-**Stack**
+`Next.js` `MySQL` `Redux Toolkit` `Tailwind CSS`
 
-Next.js • MySQL • Redux Toolkit • Tailwind CSS
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**🛍 HR.STORE**
 
-## 🛍 HR.STORE
+Premium e-commerce platform.
 
-Premium E-Commerce Platform.
-
-### Features
-
-- Authentication
-- Cart
-- Wishlist
-- Responsive Design
+- Authentication · Cart · Wishlist
 - Product Filtering
+- Responsive Design
 
-**Stack**
+`React.js` `Redux Toolkit` `Tailwind CSS`
 
-React.js • Redux Toolkit • Tailwind CSS
+</td>
+<td width="50%" valign="top">
 
----
+**📋 Taskify**
 
-## 📋 Taskify
+Task management application.
 
-Task Management Application.
-
-### Features
-
-- User Authentication
-- CRUD Operations
-- Daily Productivity
+- User Authentication · CRUD Operations
+- Daily Productivity Tracking
 - Status Filters
 
-**Stack**
+`Next.js` `MySQL` `JWT`
 
-Next.js • MySQL • JWT
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hamidrza0008&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidrza0008&theme=tokyonight&hide_border=true"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Most Used Languages
+### 📊 GitHub Stats & Activity
 
-<p align="center">
+<div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidrza0008&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hamidrza0008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidrza0008&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidrza0008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
-<p align="center">
-
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Hamidrza0008&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+### 📈 Contribution Graph
 
-<p align="center">
-
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamidrza0008&theme=tokyo-night&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
-<p align="center">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Hamidrza0008/Hamidrza0008/output/github-contribution-grid-snake.svg"/>
+</div>
 
-</p>
-
----
-
-# 💼 Looking For
-
-I'm currently looking for opportunities as
-
-- Frontend Developer
-- React Developer
-- Next.js Developer
-- Frontend-Focused Full Stack Developer
-
-where I can contribute to real-world products and continue growing as a software engineer.
+> ⚙️ Snake animation auto-updates via GitHub Actions — make sure the `github-actions:schedule` workflow is enabled in the `Hamidrza0008/Hamidrza0008` repo for this to keep animating daily.
 
 ---
 
-# 🤝 Let's Connect
+### 💼 Currently Looking For
 
-<p align="center">
+I'm open to opportunities as:
+
+- 🎯 Frontend Developer
+- 🎯 React Developer
+- 🎯 Next.js Developer
+- 🎯 Frontend-Focused Full Stack Developer
+
+Where I can contribute to real-world products and keep growing as a software engineer.
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
 
 <a href="mailto:hamidrza0008@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/hamid-rza-76303b2a7/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Hamidrza0008">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+<br/><br/>
 
----
+⭐ **If you like my work, consider giving a star to my repositories!**
 
-<h3 align="center">
+</div>
 
-⭐ If you like my work, consider giving a star to my repositories.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:2563EB&height=100&section=footer"/>
 
-</h3>
-
-<p align="center">
-
-Made with ❤️ by <b>Hamid Raza</b>
-
-</p>
+<p align="center">Made with ❤️ by <b>Hamid Raza</b></p>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamid Raza</h1>
 
 <h3 align="center">
-Frontend-Focused Full Stack Developer | Next.js • React • Node.js • MongoDB
+Full Stack Developer | Next.js • React • Node.js • Express • MongoDB • SQL
 </h3>
 
 <p align="center">
@@ -35,7 +35,7 @@ I enjoy transforming ideas into beautiful, responsive and high-performance produ
 Currently I'm focusing on building real-world SaaS projects while continuously improving my frontend architecture and backend development skills.
 
 - 🎓 B.Tech Computer Science & Engineering
-- 💻 Frontend-Focused Full Stack Developer
+- 💻 Full Stack Developer
 - 🌱 Currently building **DevReview**
 - 🚀 Learning advanced system design and scalable application architecture
 - 📍 Mumbai, Maharashtra, India

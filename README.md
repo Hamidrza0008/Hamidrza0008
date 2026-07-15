@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=220&section=header&text=Hamid%20Rza&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=220&section=header&text=Hamid%20Rza&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20MERN%20%E2%80%A2%20Authentication&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Modern+SaaS+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New+%F0%9F%9A%80" />
 

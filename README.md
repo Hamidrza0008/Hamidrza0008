@@ -108,7 +108,7 @@ A full-stack developer community platform to showcase projects, receive genuine 
 
 `Next.js` `React` `Node.js` `Express` `MongoDB Atlas` `Tailwind CSS` `Framer Motion` `JWT` `Cloudinary`
 
-<a href="https://dev-reiview.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://dev-re-view.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Hamidrza0008/DevReiview"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>

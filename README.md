@@ -1,68 +1,184 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:3fb950&height=200&section=header&text=Hamid%20Rza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlignY=55&descSize=18&descColor=8b949e" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:06B6D4&height=200&section=header&text=Hamid%20Rza&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20MERN%20%E2%80%A2%20Authentication&descAlignY=56&descSize=17"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%F0%9F%94%A5;Next.js+%7C+React.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Building+Cool+Stuff+Every+Day+%F0%9F%92%AA" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Modern+SaaS+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Currently+Interning+%40+ZA+Charity+Feed+Foundation"/>
 
-<br/><br/>
+<p>
+<a href="mailto:hamidrza0008@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hamid-rza-76303b2a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Hamidrza0008"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://dev-reiview.vercel.app/"><img src="https://img.shields.io/badge/Portfolio_Project-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Hamidrza0008&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Hamidrza0008?label=Followers&style=for-the-badge&color=3fb950&labelColor=0d1117" alt="Followers"/>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=Hamidrza0008&label=Profile%20Views&color=10B981&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Hamidrza0008?label=Followers&style=flat-square&color=06B6D4"/>
+<img src="https://img.shields.io/github/stars/Hamidrza0008?label=Stars&style=flat-square&color=10B981"/>
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-const hamid = {
-  name: "Hamid Rza",
-  username: "Hamidrza0008",
-  role: "Full Stack Developer",
-  company: "Za Charity Feed Foundation (Intern)",
-  location: "🌍 Building from Everywhere",
-  stack: {
-    frontend: ["React.js", "Next.js", "Tailwind CSS", "Framer Motion", "GSAP"],
-    backend:  ["Node.js", "Express.js", "MongoDB", "MySQL"],
-    tools:    ["Git", "GitHub", "Vercel", "VS Code"],
-  },
-  currently: "Building DevReview 🚀",
-  funFact: "I turn ☕ coffee into clean code!",
-};
-` ` `
+## 💫 About Me
+
+I'm a **Full Stack Developer** who builds **modern, scalable and premium web applications**. I enjoy turning ideas into beautiful, responsive, high-performance products — and I care as much about clean backend architecture as I do about pixel-perfect UI.
+
+Currently interning as a Full Stack Developer while shipping real-world SaaS projects on the side.
+
+```yaml
+name:       Hamid Rza
+role:       Full Stack Developer
+education:  B.Tech, Computer Science & Engineering (Final Year)
+currently:  Interning @ ZA Charity Feed Foundation
+building:   DevReview — a community platform for developers
+learning:   Advanced System Design & Scalable Architecture
+location:   Mumbai, Maharashtra, India
+contact:    hamidrza0008@gmail.com
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-<div align="center">
+**`Full Stack Developer Intern`** &nbsp;•&nbsp; **ZA Charity Feed Foundation** &nbsp;•&nbsp; <sub>Jul 2025 – Present</sub>
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+- Contributing to real-world production applications across the full stack
+- Building end-to-end features — API design, database modelling, and frontend integration
+- Hands-on with team workflows, code reviews, deployment pipelines and scalable architecture
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🚀 Tech Stack
 
-</div>
+<table>
+<tr>
+<td width="150"><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux&theme=dark"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<img src="https://img.shields.io/badge/REST_APIs-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/JWT-06B6D4?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Nodemailer-10B981?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Resend-06B6D4?style=flat-square&logo=resend&logoColor=white"/> <img src="https://img.shields.io/badge/Middleware-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/Email_OTP-06B6D4?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Deploy & Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/> <img src="https://img.shields.io/badge/Search_Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Core Concepts</b></td>
+<td>
+<img src="https://img.shields.io/badge/Authentication-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/Authorization-06B6D4?style=flat-square"/> <img src="https://img.shields.io/badge/RBAC-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/Cookie_Based_Auth-06B6D4?style=flat-square"/> <img src="https://img.shields.io/badge/Password_Reset_Flow-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/CRUD-06B6D4?style=flat-square"/> <img src="https://img.shields.io/badge/Pagination-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/Search_%26_Filtering-06B6D4?style=flat-square"/> <img src="https://img.shields.io/badge/Database_Design-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/Responsive_Design-06B6D4?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🚀 DevReview &nbsp;<img src="https://img.shields.io/badge/Main_Project-10B981?style=flat-square"/>
+
+A full-stack developer community platform to showcase projects, receive genuine reviews, and connect with developers worldwide — instead of leaving work buried inside plain GitHub repos.
+
+**🔐 Auth** Email OTP · Google OAuth 2.0 · JWT + HTTP-Only Cookies · Protected Routes · RBAC
+**📂 Core** Project CRUD with ownership-based authorization · Explore/discovery feed · Search & filter
+**⭐ Social** Reviews (add/edit/delete) · Real-time likes · Follow / Followers · Public profiles + dashboard
+**⚙️ Infra** Cloudinary uploads · Resend email service · 30+ REST endpoints on a clean MVC backend
+
+`Next.js` `React` `Node.js` `Express` `MongoDB Atlas` `Tailwind CSS` `Framer Motion` `JWT` `Cloudinary`
+
+<a href="https://dev-re-view.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Hamidrza0008/DevReiview"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍰 Lotus Cakes
+
+Full-stack e-commerce cake shop with a premium UI and a complete admin dashboard.
+
+- Authentication · Cart · Wishlist
+- Checkout & order tracking
+- Admin panel — products, orders, customers, inventory
+
+`Next.js` `MySQL` `Redux Toolkit` `Tailwind`
+
+<a href="https://lotuscakesin.vercel.app/"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Hamidrza0008/Lotus-Cakes"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Taskify
+
+Full-stack productivity and task management platform.
+
+- JWT auth · multi-user task isolation
+- Task CRUD · smart filtering
+- Daily performance score tracking
+
+`Next.js` `MySQL` `JWT` `Tailwind`
+
+<a href="https://taskro.vercel.app/"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Hamidrza0008/Taskify"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍 HR.STORE
+
+Premium e-commerce frontend platform.
+
+- Authentication · Cart · Wishlist
+- Product filtering
+- Fully responsive design
+
+`React.js` `Redux Toolkit` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Elite E-Commerce
+
+Modern frontend e-commerce app with a premium UI.
+
+- Client-side auth · Cart · Wishlist
+- Protected routes
+- State management via Redux Toolkit
+
+`React.js` `Redux Toolkit` `React Router` `Tailwind`
+
+<a href="https://hamidrza0008.github.io/E-Commerce/"><img src="https://img.shields.io/badge/Live-10B981?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Hamidrza0008/E-Commerce"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,98 +186,42 @@ const hamid = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hamidrza0008&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidrza0008&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hamidrza0008&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
 
-<br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidrza0008&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamidrza0008&hide_border=true&bg_color=0D1117&color=10B981&line=06B6D4&point=FFFFFF&area=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamidrza0008&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🚀 Featured Projects
+## 🎯 Currently Looking For
 
 <div align="center">
 
-<a href="https://github.com/Hamidrza0008/DevReview">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamidrza0008&repo=DevReview&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="DevReview"/>
-</a>
-<a href="https://github.com/Hamidrza0008/Undiscovered-Studio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamidrza0008&repo=Undiscovered-Studio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="Undiscovered-Studio"/>
-</a>
+<img src="https://img.shields.io/badge/Full_Stack_Developer-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend_Developer-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React_Developer-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Next.js_Developer-06B6D4?style=for-the-badge"/>
 
-<a href="https://github.com/Hamidrza0008/School-Landing-Page">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamidrza0008&repo=School-Landing-Page&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="School-Landing-Page"/>
-</a>
-<a href="https://github.com/Hamidrza0008/Form-Builder-WebApp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hamidrza0008&repo=Form-Builder-WebApp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="Form-Builder-WebApp"/>
-</a>
+<sub>Open to roles where I can contribute to real-world products and keep growing as a software engineer.</sub>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamidrza0008/Hamidrza0008/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamidrza0008/Hamidrza0008/output/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Hamidrza0008/Hamidrza0008/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamidrza0008&bg_color=0d1117&color=58a6ff&line=3fb950&point=ff6b35&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🌟 Live Projects
-
-| 🚀 Project | 📝 Description | 🔗 Live |
-|:---:|:---:|:---:|
-| **DevReview** | Developer Community Platform | [🌐 Visit](https://dev-re-view.vercel.app) |
-| **Undiscovered Studio** | Web Design & Dev Agency | [🌐 Visit](https://www.undiscoveredstudio.in/) |
-| **School Landing Page** | Modern School Website | [🌐 Visit](https://school-landing-page-website.vercel.app/) |
-| **Portfolio** | My Personal Portfolio | [🌐 Visit](https://hamidrza0008.github.io/Portfolio/) |
-| **Covid-19 Tracker** | Real-time COVID Info | [🌐 Visit](https://covid-19-self.vercel.app) |
-| **Form Builder** | Dynamic Form Creator App | [🌐 Visit](https://hamidrza0008.github.io/Form-Builder-WebApp/) |
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hamidrza0008-181717?style=for-the-badge&logo=github)](https://github.com/Hamidrza0008)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://hamidrza0008.github.io/Portfolio/)
-[![Vercel](https://img.shields.io/badge/Live%20Projects-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+<a href="mailto:hamidrza0008@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hamid-rza-76303b2a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Hamidrza0008"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</div>
+<sub>⭐ If you like my work, consider starring a repo — it genuinely helps!</sub>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:10B981&height=100&section=footer"/>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:58a6ff,100:0d1117&height=120&section=footer&animation=fadeIn" alt="Footer"/>
-
-**⭐ Agar mera koi project pasand aaya ho toh star dena mat bhoolo! 🙏**
-
-*"Code is like humor. When you have to explain it, it's bad."*
+<sub>Made with 💚 by <b>Hamid Rza</b></sub>
 
 </div>

@@ -31,7 +31,7 @@ Currently interning as a Full Stack Developer while shipping real-world SaaS pro
 name:       Hamid Rza
 role:       Full Stack Developer
 education:  B.Tech, Computer Science & Engineering (Final Year)
-currently:  Interning @ ZA Charity Feed Foundation
+currently:  Interning at ZA Charity Feed Foundation
 building:   DevReview — a community platform for developers
 learning:   Advanced System Design & Scalable Architecture
 location:   Mumbai, Maharashtra, India

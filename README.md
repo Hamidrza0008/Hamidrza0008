@@ -42,7 +42,7 @@ contact:    hamidrza0008@gmail.com
 
 ## 💼 Experience
 
-**`Full Stack Developer Intern`** &nbsp;•&nbsp; **ZA Charity Feed Foundation** &nbsp;•&nbsp; <sub>Jul 2025 – Present</sub>
+**`Full Stack Developer Intern`** &nbsp;•&nbsp; **ZA Charity Feed Foundation** &nbsp;•&nbsp; <sub>15 July 2025 – Present</sub>
 
 - Contributing to real-world production applications across the full stack
 - Building end-to-end features — API design, database modelling, and frontend integration

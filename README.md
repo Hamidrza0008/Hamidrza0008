@@ -184,12 +184,14 @@ Modern frontend e-commerce app with a premium UI.
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hamidrza0008&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Hamidrza0008&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
 
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamidrza0008&hide_border=true&bg_color=0D1117&color=10B981&line=06B6D4&point=FFFFFF&area=true"/>
+<img width="850" src="https://github.pumbas.net/api/contributions/Hamidrza0008?colour=10B981&bgColour=0D1117&dotColour=06B6D4"/>
 
 </div>
 

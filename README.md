@@ -16,7 +16,11 @@
 </a>
 </p>
 
+<p>
 <img src="https://komarev.com/ghpvc/?username=Hamidrza0008&label=Profile%20Views&color=10B981&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Hamidrza0008?label=Followers&style=flat-square&color=06B6D4"/>
+<img src="https://img.shields.io/github/stars/Hamidrza0008?label=Stars&style=flat-square&color=10B981"/>
+</p>
 
 </div>
 
@@ -50,14 +54,13 @@ I'm a **Full Stack Developer** focused on building modern, responsive, and scala
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 ### Tools & Deployment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C4?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 
 ---
 
@@ -67,7 +70,7 @@ I'm a **Full Stack Developer** focused on building modern, responsive, and scala
 
 Developer community platform for showcasing projects, discovering developers, and getting feedback.
 
-**Next.js · React · Node.js · Express · MongoDB · Tailwind CSS**
+**Next.js · React · Node.js · Express · MongoDB**
 
 [Live Demo](https://dev-re-view.vercel.app/) · [Source Code](https://github.com/Hamidrza0008/DevReiview)
 
@@ -75,9 +78,9 @@ Developer community platform for showcasing projects, discovering developers, an
 
 ### 🔹 College OS
 
-AI-powered digital campus platform designed to bring academics, communication, student profiles, projects, and campus information into one place.
+AI-powered digital campus platform bringing academics, communication, student profiles, projects, and campus information into one place.
 
-**Next.js · React · Node.js · MongoDB · Tailwind CSS**
+**Next.js · React · Node.js · MongoDB**
 
 [Source Code](https://github.com/Hamidrza0008/Collage-OS)
 
@@ -115,7 +118,23 @@ If you have an idea you'd like to build together, feel free to reach out.
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hamidrza0008&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=06B6D4&text_color=C9D1D9&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidrza0008&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
+
+<br/><br/>
+
+<img width="850" src="https://github.pumbas.net/api/contributions/Hamidrza0008?colour=10B981&bgColour=0D1117&dotColour=06B6D4"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -134,5 +153,7 @@ If you have an idea you'd like to build together, feel free to reach out.
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:10B981&height=100&section=footer"/>
+
+<sub>Made with 💚 by <b>Hamid Rza</b></sub>
 
 </div>
